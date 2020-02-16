@@ -1,0 +1,3 @@
+displayName = trolorados mod v1
+author = el pelado sixtyfai
+version = 1.0
